@@ -1,2 +1,2 @@
 # HNGI7
-Tasks for Hotel.ng internship
+Completion of the first Task for Hotel.ng internship 7
